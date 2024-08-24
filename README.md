@@ -1,1 +1,1 @@
-# prueba_tecnica
+# Proyecto del Diplomado en PHP
